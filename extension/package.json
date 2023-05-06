@@ -2,7 +2,7 @@
   "publisher": "pibcht",
   "name": "pack-dotnet",
   "version": "0.0.0",
-  "engines": { "vscode": "^1.0.0" },
+  "engines": { "vscode": "^1.77.0" },
   "categories": [ "Extension Packs" ],
   "displayName": "Pi Pack • .NET",
   "description": "Essentials for .NET development",
@@ -15,5 +15,5 @@
   "homepage": "https://github.com/pibcht/vsce-pack-dotnet",
   "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-dotnet.git" },
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-dotnet/issues" },
-  "extensionPack": []
+  "extensionPack": [ "pibcht.pack-core" ]
 }
