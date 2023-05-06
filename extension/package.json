@@ -1,0 +1,19 @@
+{
+  "publisher": "pibcht",
+  "name": "pack-dotnet",
+  "version": "1.0.0",
+  "engines": { "vscode": "^1.77.0" },
+  "categories": [ "Extension Packs" ],
+  "displayName": "Pi Pack • .NET",
+  "description": "Essentials for .NET development",
+  "icon": "icon.png",
+  "author": { "name": "Pi____b__ch_t", "email": "pi@bc.ht" },
+  "keywords": [
+    "Bundle", "C#", "Dev", "dotnet", "Fundamental", "Init", "Optimize", 
+    "PowerShell", "Powertools", "Productivity", "Toolbox"
+  ],
+  "homepage": "https://github.com/pibcht/vsce-pack-dotnet",
+  "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-dotnet.git" },
+  "bugs": { "url": "https://github.com/pibcht/vsce-pack-dotnet/issues" },
+  "extensionPack": [ "pibcht.pack-core" ]
+}
