@@ -12,6 +12,7 @@
     "Bundle", "C#", "Dev", "dotnet", "Fundamental", "Init", "Optimize", 
     "PowerShell", "Powertools", "Productivity", "Toolbox"
   ],
+  "galleryBanner": { "color": "#314159", "theme": "dark" },
   "homepage": "https://github.com/pibcht/vsce-pack-dotnet",
   "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-dotnet.git" },
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-dotnet/issues" },
