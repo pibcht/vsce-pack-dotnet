@@ -16,6 +16,10 @@ Provides intellisense for and imports references from all available sources.
 
 C# for Visual Studio Code (powered by OmniSharp).
 
+### C# Interpolated String Converter [corylulu.csharp-interpolated-string-converter](https://marketplace.visualstudio.com/items?itemName=corylulu.csharp-interpolated-string-converter)
+
+Prepends a `$` to a string when a $ and { are entered within quotes in CSharp files (and removes the typed `$`)
+
 ### PowerShell [ms-vscode.powershell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.powershell)
 
 Develop PowerShell modules, commands and scripts in Visual Studio Code!
