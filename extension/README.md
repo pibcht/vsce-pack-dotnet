@@ -8,6 +8,10 @@ Essentials for .NET development
 
 Fundamental extensions for all uses
 
+### Auto-Using for C# [fudge.auto-using](https://marketplace.visualstudio.com/items?itemName=fudge.auto-using)
+
+Provides intellisense for and imports references from all available sources.
+
 ### C# [ms-dotnettools.csharp](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 
 C# for Visual Studio Code (powered by OmniSharp).
