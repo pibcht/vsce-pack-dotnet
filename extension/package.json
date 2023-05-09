@@ -1,7 +1,7 @@
 {
   "publisher": "pibcht",
   "name": "pack-dotnet",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "engines": { "vscode": "^1.77.0" },
   "categories": [ "Extension Packs" ],
   "displayName": "Pi Pack • .NET",
@@ -12,8 +12,13 @@
     "Bundle", "C#", "Dev", "dotnet", "Fundamental", "Init", "Optimize", 
     "PowerShell", "Powertools", "Productivity", "Toolbox"
   ],
+  "galleryBanner": { "color": "#314159", "theme": "dark" },
   "homepage": "https://github.com/pibcht/vsce-pack-dotnet",
   "repository": { "type": "git", "url": "https://github.com/pibcht/vsce-pack-dotnet.git" },
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-dotnet/issues" },
-  "extensionPack": [ "pibcht.pack-core" ]
+  "extensionPack": [
+    "pibcht.pack-core", "fudge.auto-using", 
+    "corylulu.csharp-interpolated-string-converter", "ms-dotnettools.csharp", 
+    "ms-vscode.powershell"
+  ]
 }

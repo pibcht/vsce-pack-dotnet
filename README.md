@@ -8,6 +8,11 @@
 
 - [Pi Pack • Core](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-core)
 
+- [Auto-Using for C#](https://marketplace.visualstudio.com/items?itemName=fudge.auto-using)
+- [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
+- [C# Interpolated String Converter](https://marketplace.visualstudio.com/items?itemName=corylulu.csharp-interpolated-string-converter)
+- [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.powershell)
+
 ### Liens
 
 - View Extension [README](/extension/README.md)
