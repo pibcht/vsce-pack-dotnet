@@ -8,6 +8,7 @@
 
 - [Pi Pack • Core](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-core)
 
+- [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 - [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.powershell)
 
 ### Liens
