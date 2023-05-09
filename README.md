@@ -8,6 +8,8 @@
 
 - [Pi Pack • Core](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-core)
 
+- [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.powershell)
+
 ### Liens
 
 - View Extension [README](/extension/README.md)
