@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Hex Editor [ms-vscode.hexeditor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)
 - REST Client [humao.rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
 ## [1.1.0]
