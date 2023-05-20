@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0]
+
 ### Added
 
 - Auto-Using for C# [fudge.auto-using](https://marketplace.visualstudio.com/items?itemName=fudge.auto-using)
