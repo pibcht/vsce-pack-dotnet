@@ -12,6 +12,7 @@
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 - [C# Interpolated String Converter](https://marketplace.visualstudio.com/items?itemName=corylulu.csharp-interpolated-string-converter)
 - [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.powershell)
+- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
 ### Liens
 

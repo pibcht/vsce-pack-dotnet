@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- REST Client [humao.rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+
 ## [1.1.0]
 
 ### Added

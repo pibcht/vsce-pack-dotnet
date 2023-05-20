@@ -23,3 +23,7 @@ Prepends a `$` to a string when a $ and { are entered within quotes in CSharp fi
 ### PowerShell [ms-vscode.powershell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.powershell)
 
 Develop PowerShell modules, commands and scripts in Visual Studio Code!
+
+### REST Client [humao.rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+
+REST Client for Visual Studio Code
