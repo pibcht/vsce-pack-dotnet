@@ -20,6 +20,14 @@ C# for Visual Studio Code (powered by OmniSharp).
 
 Prepends a `$` to a string when a $ and { are entered within quotes in CSharp files (and removes the typed `$`)
 
+### Hex Editor [ms-vscode.hexeditor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)
+
+Allows viewing and editing files in a hex editor
+
 ### PowerShell [ms-vscode.powershell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.powershell)
 
 Develop PowerShell modules, commands and scripts in Visual Studio Code!
+
+### REST Client [humao.rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+
+REST Client for Visual Studio Code

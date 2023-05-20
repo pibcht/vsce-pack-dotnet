@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.2.0]
+
+### Added
+
+- Hex Editor [ms-vscode.hexeditor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)
+- REST Client [humao.rest-client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+
+## [1.1.0]
+
 ### Added
 
 - Auto-Using for C# [fudge.auto-using](https://marketplace.visualstudio.com/items?itemName=fudge.auto-using)

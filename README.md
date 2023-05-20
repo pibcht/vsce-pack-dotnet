@@ -11,7 +11,9 @@
 - [Auto-Using for C#](https://marketplace.visualstudio.com/items?itemName=fudge.auto-using)
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 - [C# Interpolated String Converter](https://marketplace.visualstudio.com/items?itemName=corylulu.csharp-interpolated-string-converter)
+- [Hex Editor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)
 - [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.powershell)
+- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
 ### Liens
 
