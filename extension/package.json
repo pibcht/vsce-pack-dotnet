@@ -19,6 +19,7 @@
   "extensionPack": [
     "pibcht.pack-core", "corylulu.csharp-interpolated-string-converter", 
     "fudge.auto-using", "humao.rest-client", "ms-dotnettools.csdevkit", 
-    "ms-vscode.hexeditor", "ms-vscode.powershell"
+    "ms-dotnettools.vscodeintellicode-csharp", "ms-vscode.hexeditor", 
+    "ms-vscode.powershell"
   ]
 }

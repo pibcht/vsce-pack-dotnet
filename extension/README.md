@@ -24,6 +24,10 @@ Prepends a `$` to a string when a $ and { are entered within quotes in CSharp fi
 
 Allows viewing and editing files in a hex editor
 
+### IntelliCode for C# Dev Kit [ms-dotnettools.vscodeintellicode-csharp](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp)
+
+AI-assisted development for C# Dev Kit
+
 ### PowerShell [ms-vscode.powershell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.powershell)
 
 Develop PowerShell modules, commands and scripts in Visual Studio Code!

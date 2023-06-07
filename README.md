@@ -12,6 +12,7 @@
 - [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
 - [C# Interpolated String Converter](https://marketplace.visualstudio.com/items?itemName=corylulu.csharp-interpolated-string-converter)
 - [Hex Editor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)
+- [IntelliCode for C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscodeintellicode-csharp)
 - [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.powershell)
 - [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
