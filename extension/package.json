@@ -18,7 +18,7 @@
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-dotnet/issues" },
   "extensionPack": [
     "pibcht.pack-core", "fudge.auto-using", "humao.rest-client", 
-    "corylulu.csharp-interpolated-string-converter", "ms-dotnettools.csharp", 
-    "ms-vscode.hexeditor", "ms-vscode.powershell"
+    "corylulu.csharp-interpolated-string-converter", "ms-vscode.hexeditor", 
+    "ms-vscode.powershell"
   ]
 }
