@@ -9,6 +9,7 @@
 - [Pi Pack • Core](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-core)
 
 - [Auto-Using for C#](https://marketplace.visualstudio.com/items?itemName=fudge.auto-using)
+- [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
 - [C# Interpolated String Converter](https://marketplace.visualstudio.com/items?itemName=corylulu.csharp-interpolated-string-converter)
 - [Hex Editor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.hexeditor)
 - [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.powershell)

@@ -12,6 +12,10 @@ Fundamental extensions for all uses
 
 Provides intellisense for and imports references from all available sources.
 
+### C# Dev Kit [ms-dotnettools.csdevkit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
+
+Official C# extension from Microsoft
+
 ### C# Interpolated String Converter [corylulu.csharp-interpolated-string-converter](https://marketplace.visualstudio.com/items?itemName=corylulu.csharp-interpolated-string-converter)
 
 Prepends a `$` to a string when a $ and { are entered within quotes in CSharp files (and removes the typed `$`)
